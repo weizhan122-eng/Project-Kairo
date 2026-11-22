@@ -1,34 +1,43 @@
 PROPRIETARY SOFTWARE LICENSE
 
-Copyright (c) 2026 KAIRO. All Rights Reserved.
+Copyright (c) 2026 Kaizer (GitHub: weizhan122-eng).
+All Rights Reserved.
 
-KAIRO MACROS is proprietary software. All rights, title, and interest in the software, including its source code, design, interface, documentation, and associated assets, are owned by the author.
+PROJECT: KAIRO MACROS
 
-RESTRICTIONS:
+1. OWNERSHIP
 
-1. Redistribution of this software, in whole or in part, is prohibited without prior written permission from the copyright owner.
+KAIRO MACROS, including its original source code, application design, branding, documentation, and associated original assets, remains the property of its respective copyright owner.
 
-2. Modification, copying, republishing, or creation of derivative works is prohibited without explicit authorization.
+2. RESTRICTIONS
 
-3. Commercial use, resale, sublicensing, or redistribution is not permitted without written consent.
+Without prior written permission from the copyright owner, you may not:
 
-4. Unauthorized distribution of compiled builds, source code, or modified versions is prohibited.
+- Copy or redistribute the software or its source code.
+- Modify, reverse engineer, or create derivative versions of the software, except where applicable law permits.
+- Reupload or redistribute official application releases.
+- Sell, sublicense, or commercially redistribute the software.
+- Claim ownership of the project or its original assets.
 
-5. Access to this repository does not grant ownership or intellectual property rights.
+3. PUBLIC REPOSITORY
 
-PERMISSIONS:
+Making this repository publicly accessible does not grant permission to copy, modify, redistribute, or commercially exploit the project.
 
-The copyright owner may grant individual permissions or licenses in writing.
+Public access is provided for viewing project information, documentation, changelogs, and official release announcements.
 
-DISCLAIMER:
+4. THIRD-PARTY COMPONENTS
 
-This software is provided "AS IS", without warranties of any kind, express or implied. The copyright owner shall not be held liable for damages arising from the use or inability to use this software, to the extent permitted by applicable law.
+Third-party libraries, dependencies, and assets remain subject to their respective licenses and terms.
 
-THIRD-PARTY SOFTWARE:
+5. DISCLAIMER
 
-Any third-party libraries, dependencies, or assets remain subject to their respective licenses and terms.
+The software is provided "AS IS", without warranties of any kind, to the extent permitted by applicable law.
 
-All rights reserved.
+6. PERMISSIONS
+
+Any additional permissions must be explicitly granted in writing by the copyright owner.
+
+All Rights Reserved.
 
 KAIRO MACROS
-Proprietary Software
+Copyright © 2026 Kaizer.
