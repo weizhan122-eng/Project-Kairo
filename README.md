@@ -1,4 +1,4 @@
-# KAIRO MACROS
+# KAIRO MACRO
 
 **A modern gaming macro utility.**
 
